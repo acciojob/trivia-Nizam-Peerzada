@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+.footer{
+    background-color: aliceblue;
+    border-left: 8px solid green ;
+    padding-left: 2px;
+}
